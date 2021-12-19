@@ -15,7 +15,17 @@
       "ProjectGuid": "de9ab65d-57ea-463e-bc6a-aa0c6b1ae6ee",
       "DisplayName": "LaneSelection.Shared",
       "ColorIndex": 2
+    },
+    "c25463ec-aae3-452f-9024-4998839fd40f": {
+      "ProjectGuid": "c25463ec-aae3-452f-9024-4998839fd40f",
+      "DisplayName": "LanesSelection.Application",
+      "ColorIndex": 3
+    },
+    "0806985b-059f-4dde-b877-857b25f8cbc9": {
+      "ProjectGuid": "0806985b-059f-4dde-b877-857b25f8cbc9",
+      "DisplayName": "LaneSelection.Application",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }
