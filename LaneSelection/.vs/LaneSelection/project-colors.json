@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2145da60-707b-42d7-b080-77f9236de45f": {
+      "ProjectGuid": "2145da60-707b-42d7-b080-77f9236de45f",
+      "DisplayName": "LaneSelection",
+      "ColorIndex": 0
+    },
+    "e4779f6a-77b1-4b17-b9ad-7f01d10f5260": {
+      "ProjectGuid": "e4779f6a-77b1-4b17-b9ad-7f01d10f5260",
+      "DisplayName": "LaneSelection.Domain",
+      "ColorIndex": 1
+    },
+    "de9ab65d-57ea-463e-bc6a-aa0c6b1ae6ee": {
+      "ProjectGuid": "de9ab65d-57ea-463e-bc6a-aa0c6b1ae6ee",
+      "DisplayName": "LaneSelection.Shared",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

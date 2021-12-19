@@ -1,0 +1,15 @@
+C:\Users\P3CK\Desktop\Examples\LaneSelection\LaneSelection\LaneSelection.Domains\bin\Debug\net5.0\LaneSelection.Domain.deps.json
+C:\Users\P3CK\Desktop\Examples\LaneSelection\LaneSelection\LaneSelection.Domains\bin\Debug\net5.0\LaneSelection.Domain.dll
+C:\Users\P3CK\Desktop\Examples\LaneSelection\LaneSelection\LaneSelection.Domains\bin\Debug\net5.0\ref\LaneSelection.Domain.dll
+C:\Users\P3CK\Desktop\Examples\LaneSelection\LaneSelection\LaneSelection.Domains\bin\Debug\net5.0\LaneSelection.Domain.pdb
+C:\Users\P3CK\Desktop\Examples\LaneSelection\LaneSelection\LaneSelection.Domains\bin\Debug\net5.0\LaneSelection.Shared.dll
+C:\Users\P3CK\Desktop\Examples\LaneSelection\LaneSelection\LaneSelection.Domains\bin\Debug\net5.0\LaneSelection.Shared.pdb
+C:\Users\P3CK\Desktop\Examples\LaneSelection\LaneSelection\LaneSelection.Domains\obj\Debug\net5.0\LaneSelection.Domain.csproj.AssemblyReference.cache
+C:\Users\P3CK\Desktop\Examples\LaneSelection\LaneSelection\LaneSelection.Domains\obj\Debug\net5.0\LaneSelection.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P3CK\Desktop\Examples\LaneSelection\LaneSelection\LaneSelection.Domains\obj\Debug\net5.0\LaneSelection.Domain.AssemblyInfoInputs.cache
+C:\Users\P3CK\Desktop\Examples\LaneSelection\LaneSelection\LaneSelection.Domains\obj\Debug\net5.0\LaneSelection.Domain.AssemblyInfo.cs
+C:\Users\P3CK\Desktop\Examples\LaneSelection\LaneSelection\LaneSelection.Domains\obj\Debug\net5.0\LaneSelection.Domain.csproj.CoreCompileInputs.cache
+C:\Users\P3CK\Desktop\Examples\LaneSelection\LaneSelection\LaneSelection.Domains\obj\Debug\net5.0\LaneSelection.Domain.csproj.CopyComplete
+C:\Users\P3CK\Desktop\Examples\LaneSelection\LaneSelection\LaneSelection.Domains\obj\Debug\net5.0\LaneSelection.Domain.dll
+C:\Users\P3CK\Desktop\Examples\LaneSelection\LaneSelection\LaneSelection.Domains\obj\Debug\net5.0\ref\LaneSelection.Domain.dll
+C:\Users\P3CK\Desktop\Examples\LaneSelection\LaneSelection\LaneSelection.Domains\obj\Debug\net5.0\LaneSelection.Domain.pdb
